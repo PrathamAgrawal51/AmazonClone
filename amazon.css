@@ -1,0 +1,90 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+.fnav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(13, 13, 40);
+    color: white;
+    padding: 5px;
+}
+body{
+    background-color:rgb(224, 215, 215) ;
+}
+.fnav img {
+    width: 12%;
+    height: 11%;
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+nav .loca {
+    display: flex;
+}
+.loca i {
+    margin-inline: 11px;
+}
+.nav input {
+    margin-top: 6px;
+    width: 700px;
+    height: 32px;
+    border: none;
+}
+.nav img {
+    width: 4%;
+    height: 82%;
+}
+nav i {
+    font-size: 25px;
+    margin-top: 5px;
+}
+nav p { 
+    margin-top: 9px;
+}
+.snav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 5px;
+    background-color: rgb(39, 39, 69);
+    color: white;
+}
+.main img {
+    width: 100%;
+}
+.snav p {
+    margin-top: 6px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.snav p:hover {
+    border-bottom: 2px solid white;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.card {
+    width: 450px;
+    height:400px;
+    background-color: white;
+    text-align: center;
+    margin-top: -350px;
+}
+.card h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+.img img {
+    padding: 7px;
+    margin-top: 12px;
+}
+.img img:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
