@@ -18,4 +18,4 @@ A responsive **Amazon Clone** built to showcase frontend development skills usin
 
 1. Clone the repository:  
    ```sh
-   https://github.com/PrathamAgrawal51/AmazonClone.git
+   git clone https://github.com/PrathamAgrawal51/AmazonClone.git
